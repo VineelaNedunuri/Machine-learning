@@ -12,6 +12,7 @@ ipykernel = "*"
 black = "*"
 scipy = "*"
 scikit-learn = "*"
+fuzzywuzzy = "*"
 
 [dev-packages]
 
