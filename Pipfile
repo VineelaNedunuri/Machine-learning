@@ -13,6 +13,7 @@ black = "*"
 scipy = "*"
 scikit-learn = "*"
 fuzzywuzzy = "*"
+levenshtein = "*"
 
 [dev-packages]
 
